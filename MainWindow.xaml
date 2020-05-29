@@ -18,17 +18,72 @@
             <RowDefinition />
             <RowDefinition />
         </Grid.RowDefinitions>
+        <Label Width="100" Grid.Column="0"
+               Grid.Row="0" VerticalAlignment="Center"
+               HorizontalAlignment="Center"
+               Margin="0,0,140,0"
+               Content="User name"/>
+        <TextBox Width="100" MinHeight="20"
+                 MaxHeight="20" Grid.Column="0"
+                 Grid.Row="0" VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 x:Name="NameBox"/>
         <Label Content="Active users" Grid.Row="0"
                Grid.Column="0" HorizontalAlignment="Center"
                VerticalAlignment="Bottom"/>
         <ScrollViewer Grid.Row="1" Grid.RowSpan="2">
-            <TextBox Grid.Column="0" Grid.Row="1" Grid.RowSpan="2" 
-                     x:Name="UsrListBox"/>
+            <ListView Grid.Column="0" Grid.Row="1" Grid.RowSpan="2" 
+                     x:Name="UserListBox">
+                <ListView.View>
+                    <GridView TextBlock.TextAlignment="Center">
+                        <GridViewColumn Header="Name" 
+                                        DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn Header="IP address" 
+                                        DisplayMemberBinding="{Binding IP}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
         </ScrollViewer>
-        <ScrollViewer Grid.Column="1" Grid.Row="0" Grid.RowSpan="3"
-                      Margin="0,40,0,0">
+        <Button x:Name="ConnectBtn" Width="100"
+                Height="30" Grid.Column="0"
+                Grid.Row="3" Content="Connect" 
+                Click="EnterChat" VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Margin="17,0,0,0"/>
+        <Button x:Name="DisconnectBtn" Width="100"
+                Height="30" Grid.Column="0"
+                Grid.Row="3" Content="Disconnect" 
+                VerticalAlignment="Top"
+                HorizontalAlignment="Right"
+                IsEnabled="False"
+                Click="LeaveChat"
+                Margin="0,0,17,0"/>
+        <ScrollViewer Grid.Column="1" Grid.Row="0" Grid.RowSpan="3">
             <TextBox Grid.Column="1" Grid.Row="0" Grid.RowSpan="3" 
-                     x:Name="ChatBox"/>
+                     x:Name="ChatBox"
+                     IsReadOnly="True"/>
+        </ScrollViewer>
+        <Button x:Name="SendMsgBtn" Width="100"
+                Height="30" Grid.Column="1"
+                Grid.Row="3" Content="Send" 
+                VerticalAlignment="Bottom"
+                Click="SendChatMessage"
+                IsEnabled="False"/>
+        <TextBox Grid.Column="1" Grid.Row="3" 
+                 x:Name="InputBox" Height="50" 
+                 VerticalAlignment="Top"
+                 BorderThickness="1"
+                 BorderBrush="Aqua"
+                 PreviewMouseLeftButtonDown="InputBox_MouseUp"
+                 Text="Type message here..."
+                 TextAlignment="Center"/>
+        <Label Content="History connection" Grid.Row="0"
+               Grid.Column="2" HorizontalAlignment="Center"
+               VerticalAlignment="Bottom"/>
+        <ScrollViewer Grid.Column="2" Grid.Row="1" Grid.RowSpan="2">
+            <TextBox x:Name="HistoryConnectionBox" IsReadOnly="True"
+                     TextBlock.FontSize="16"
+                     TextBlock.FontWeight="Bold"/>
         </ScrollViewer>
     </Grid>
 </Window>

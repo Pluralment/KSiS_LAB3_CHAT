@@ -12,3 +12,88 @@ C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3\obj\Debug\Lab3.Propertie
 C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
 C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3\obj\Debug\Lab3.exe
 C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3\obj\Debug\Lab3.pdb
+C:\Users\KIRILL\Desktop\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\KIRILL\Desktop\Lab3\bin\Debug\Lab3.exe
+C:\Users\KIRILL\Desktop\Lab3\bin\Debug\Lab3.pdb
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\MainWindow.g.cs
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\App.g.cs
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\Lab3_MarkupCompile.lref
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\MainWindow.baml
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\Lab3.g.resources
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\Lab3.exe
+C:\Users\KIRILL\Desktop\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Kira\Desktop\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Kira\Desktop\Lab3\bin\Debug\Lab3.exe
+C:\Users\Kira\Desktop\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Kira\Desktop\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Kira\Desktop\Lab3\obj\Debug\MainWindow.g.cs
+C:\Users\Kira\Desktop\Lab3\obj\Debug\App.g.cs
+C:\Users\Kira\Desktop\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+C:\Users\Kira\Desktop\Lab3\obj\Debug\Lab3_MarkupCompile.lref
+C:\Users\Kira\Desktop\Lab3\obj\Debug\MainWindow.baml
+C:\Users\Kira\Desktop\Lab3\obj\Debug\Lab3.g.resources
+C:\Users\Kira\Desktop\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Kira\Desktop\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Kira\Desktop\Lab3\obj\Debug\Lab3.exe
+C:\Users\Kira\Desktop\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\bin\Debug\Lab3.exe.config
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\bin\Debug\Lab3.exe
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\bin\Debug\Lab3.pdb
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\MainWindow.g.cs
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\App.g.cs
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3_MarkupCompile.cache
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3_MarkupCompile.lref
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\MainWindow.baml
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.g.resources
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.exe
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.pdb
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\bin\Debug\Lab3.exe.config
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\bin\Debug\Lab3.exe
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\bin\Debug\Lab3.pdb
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.csprojAssemblyReference.cache
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\MainWindow.g.cs
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\App.g.cs
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3_MarkupCompile.cache
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3_MarkupCompile.lref
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\MainWindow.baml
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.g.resources
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.Properties.Resources.resources
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.csproj.GenerateResource.cache
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.exe
+E:\POIT\4 семестр\КСИС\Лабы\Lab3 (notesheet)\obj\Debug\Lab3.pdb
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\bin\Debug\Lab3.exe.config
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\bin\Debug\Lab3.exe
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\bin\Debug\Lab3.pdb
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\MainWindow.g.cs
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\App.g.cs
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\Lab3_MarkupCompile.cache
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\Lab3_MarkupCompile.lref
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\MainWindow.baml
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\Lab3.g.resources
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\Lab3.exe
+C:\Users\KIRILL\Desktop\Lab3 (notesheet)\obj\Debug\Lab3.pdb
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\bin\Debug\Lab3.exe.config
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\bin\Debug\Lab3.exe
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\bin\Debug\Lab3.pdb
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\MainWindow.g.cs
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\App.g.cs
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3_MarkupCompile.cache
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3_MarkupCompile.lref
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\MainWindow.baml
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3.g.resources
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3.exe
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3.pdb
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\KIRILL\Desktop\Lab3 WORKNOTE (ACTIVE VERSION)\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
